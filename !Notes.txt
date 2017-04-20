@@ -1,0 +1,5 @@
+Just some quick notes.
+
+1. Use github for issue tracking?  I think it is time to do that.  Especially since homework 9 is very problematic
+2. Re-write the classes?  That is very tempting.  I could copy and paste the good code.
+3. My movement function is broken, because the character disapears at location 1,3.
